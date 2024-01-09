@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+box-sizing: border-box;
+;}
+body{
+    background-color: rgb(193, 170, 214);
+}
+.container{
+white-space: normal;
+    width: 734px;
+    height: 349px;
+    /* background-color: rgb(255, 255, 255); */
+ border-bottom: 21px; 
+    margin: 115px;
+    padding: 42px;
+    /* border-radius: 50px; */
+    /* box-shadow: 4px 4px 8px #2980b9; */
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 275px;
+}
+
+
+.container3 {
+    width: 286px;
+        height: 30px;
+        /* background-color: rgb(255 255 255); */
+        /* border: 3px solid #8c7f8e; */
+        /* border-radius: 23px; */
+        display: flex;
+        justify-content: space-between;
+        border-bottom: 4px solid rgb(158 142 159);
+        margin-bottom: 10px;
+    }
+    
+.input{
+border: none;
+    background-color: rgba(255, 255, 255, 0.7);
+    border-bottom: 4px solid rgb(0 0 0);
+    padding: 14px;
+  
+    margin-bottom: 10px;
+    height: 44px;
+width: 260px;}
+.word{
+    color:aliceblue
+}
+   
+
+.btn{
+    height: 40px;
+        border: 1px solid rgb(251, 251, 251);
+        border-radius: 65px;
+        background-color: #ce14d4;
+        width: 90px;
+        margin-left: 257px;
+        /* width: 200px; */
+        /* height: 50px; */
+        border: none;
+        background: linear-gradient(120deg, rgb(108 105 107), rgb(130 119 126) 55%, rgb(0 0 0), rgb(92 93 94) 45%);
+    }
+            
+        .tw-menu-btn{
+                        cursor: pointer;
+                        display: inline-block;
+                        height: 48px;
+                        color: #f0f0f0;
+                        overflow: hidden;
+                        width: 29px;
+                        
+                        }
+                        .example{
+                        margin-top: 31px;
+                            color: rgb(239, 239, 239);
+                            border-left: 9px solid rgb(252, 252, 252);
+                            
+                          
+                        }
+                        .meaning{color: rgb(244, 244, 244);
+                            border-left: 9px solid #f2f2f2;
+                            margin-top: 35px;
+                            width: 488px;}
+                        .poop{
+                            color: rgb(133, 132, 131);
+                            
+                        }
